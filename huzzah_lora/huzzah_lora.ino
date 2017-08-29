@@ -33,6 +33,11 @@
 #define RFM95_RST 16   // "D"
 #define RFM95_INT 15   // "B"
 
+//note other pin connections for ESP:
+//SCK -- 14
+//MOSI -- 13
+//MISO -- 12
+
 
 /* Feather 32u4 w/wing
 #define RFM95_RST     11   // "A"
